@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DEBAJITSAMANTA7
+- 👋 Hi, I’m @DEBAJIT SAMANTA
 - 👀 I’m interested in WEB DEVLOPMENT
 - 🌱 I’m currently in 3rd year B.Tech(CSBS)
 - 💞️ I’m looking to collaborate on WEB DEVLOPMENT PROJECTS
