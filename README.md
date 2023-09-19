@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DEBAJIT SAMANTA
-- 👀 I’m interested in WEB DEVLOPMENT
-- 🌱 I’m currently in 3rd year B.Tech(CSBS)
-- 💞️ I’m looking to collaborate on WEB DEVLOPMENT PROJECTS
+- Cloud Engineer
 - 📫 How to reach me hackerreviver@yahoo.com
 <!---
 DEBAJITSAMANTA7/DEBAJITSAMANTA7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
