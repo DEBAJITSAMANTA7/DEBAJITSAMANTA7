@@ -64,14 +64,14 @@ I am a passionate and dedicated individual pursuing a Bachelor of Technology in 
   <h4>Higher Secondary Education</h4>
   <p><strong>Mahammadpur Shibnarayan Sikshayatan, WBCHSE</strong></p>
   <p><strong>January 2017 - April 2019 | Nandigram-I</strong></p>
-  <p>Percentage: 72.80</p>
+ 
 </div>
 
 <div style="border: 1px solid #eaeaea; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
   <h4>Secondary Education</h4>
   <p><strong>Mahammadpur Shibnarayan Sikshayatan, WBSE</strong></p>
   <p><strong>January 2011 - March 2017 | Nandigram-I</strong></p>
-  <p>Percentage: 76.14</p>
+  
 </div>
 
 ## Projects
