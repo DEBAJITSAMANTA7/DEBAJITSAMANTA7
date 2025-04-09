@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DEBAJITSAMANTA7&color=blue)
 
 ## About Me
-I am a passionate and dedicated individual pursuing a Bachelor of Technology in Computer Science & Business Systems (CSBS). I have experience in data engineering, cloud computing, and software development, with a strong foundation in C++ and Python.
+I am a passionate and dedicated individual pursuing a Bachelor of Technology in Computer Science & Engineering. I have experience in data engineering, cloud computing, and software development, with a strong foundation in C++ and Python.
 
 - 🌍  I'm based in Kolkata, India
 - ✉️  You can contact me at <a href="mailto:debajitsamanta2001@gmail.com">debajitsamanta2001@gmail.com</a>
